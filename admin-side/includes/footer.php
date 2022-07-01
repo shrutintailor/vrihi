@@ -1,0 +1,1 @@
+ <footer class="footer text-center clearfix">2021 © VRIHI. All rights reserved!</footer>
